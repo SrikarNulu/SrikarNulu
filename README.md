@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrikarNulu
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently learning core java
+- 💞️ I’m looking to collaborate on core java
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
